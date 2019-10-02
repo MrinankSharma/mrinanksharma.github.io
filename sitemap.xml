@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mrinanksharma.github.io/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mrinanksharma.github.io/news/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mrinanksharma.github.io/news/bayesian_logistic_regression/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mrinanksharma.github.io/authors/</loc>
     <lastmod>2019-09-24T00:00:00+00:00</lastmod>
   </url>
@@ -14,11 +29,6 @@
   
   <url>
     <loc>https://mrinanksharma.github.io/authors/mrinank-sharma/</loc>
-    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mrinanksharma.github.io/</loc>
     <lastmod>2019-09-24T00:00:00+00:00</lastmod>
   </url>
   

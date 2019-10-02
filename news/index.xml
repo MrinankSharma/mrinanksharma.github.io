@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | Mrinank Sharma</title>
+    <link>https://mrinanksharma.github.io/news/</link>
+      <atom:link href="https://mrinanksharma.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Mrinank Sharma © 2019</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mrinanksharma.github.io/img/icon-192.png</url>
+      <title>News</title>
+      <link>https://mrinanksharma.github.io/news/</link>
+    </image>
+    
+    <item>
+      <title>Paper Accepted at NeurIPS Privacy in Machine Learning Workshop</title>
+      <link>https://mrinanksharma.github.io/news/bayesian_logistic_regression/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/news/bayesian_logistic_regression/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
