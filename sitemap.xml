@@ -3,8 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mrinanksharma.github.io/authors/admin/</loc>
+    <lastmod>2019-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mrinanksharma.github.io/tags/ai-governance/</loc>
+    <lastmod>2019-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mrinanksharma.github.io/tags/ai-safety/</loc>
+    <lastmod>2019-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mrinanksharma.github.io/authors/</loc>
+    <lastmod>2019-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mrinanksharma.github.io/tags/effective-altruism/</loc>
+    <lastmod>2019-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mrinanksharma.github.io/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mrinanksharma.github.io/post/</loc>
+    <lastmod>2019-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mrinanksharma.github.io/post/eag_reflect/</loc>
+    <lastmod>2019-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mrinanksharma.github.io/tags/</loc>
+    <lastmod>2019-10-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -15,11 +55,6 @@
   <url>
     <loc>https://mrinanksharma.github.io/news/bayesian_logistic_regression/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mrinanksharma.github.io/authors/</loc>
-    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -38,15 +73,7 @@
   </url>
   
   <url>
-    <loc>https://mrinanksharma.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
     <loc>https://mrinanksharma.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mrinanksharma.github.io/post/</loc>
   </url>
   
   <url>
@@ -55,10 +82,6 @@
   
   <url>
     <loc>https://mrinanksharma.github.io/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mrinanksharma.github.io/tags/</loc>
   </url>
   
 </urlset>

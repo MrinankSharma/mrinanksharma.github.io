@@ -5,12 +5,36 @@
     <link>https://mrinanksharma.github.io/tags/</link>
       <atom:link href="https://mrinanksharma.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Mrinank Sharma © 2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Mrinank Sharma © 2019</copyright><lastBuildDate>Sun, 27 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mrinanksharma.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://mrinanksharma.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>AI Governance</title>
+      <link>https://mrinanksharma.github.io/tags/ai-governance/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/tags/ai-governance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI Safety</title>
+      <link>https://mrinanksharma.github.io/tags/ai-safety/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/tags/ai-safety/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective Altruism</title>
+      <link>https://mrinanksharma.github.io/tags/effective-altruism/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/tags/effective-altruism/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

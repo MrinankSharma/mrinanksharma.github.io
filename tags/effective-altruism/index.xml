@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Mrinank Sharma</title>
-    <link>https://mrinanksharma.github.io/post/</link>
-      <atom:link href="https://mrinanksharma.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
+    <title>Effective Altruism | Mrinank Sharma</title>
+    <link>https://mrinanksharma.github.io/tags/effective-altruism/</link>
+      <atom:link href="https://mrinanksharma.github.io/tags/effective-altruism/index.xml" rel="self" type="application/rss+xml" />
+    <description>Effective Altruism</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Mrinank Sharma © 2019</copyright><lastBuildDate>Sun, 27 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mrinanksharma.github.io/img/icon-192.png</url>
-      <title>Posts</title>
-      <link>https://mrinanksharma.github.io/post/</link>
+      <title>Effective Altruism</title>
+      <link>https://mrinanksharma.github.io/tags/effective-altruism/</link>
     </image>
     
     <item>
