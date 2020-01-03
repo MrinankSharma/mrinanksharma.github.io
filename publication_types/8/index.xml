@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>8 | Mrinank Sharma</title>
+    <link>https://mrinanksharma.github.io/publication_types/8/</link>
+      <atom:link href="https://mrinanksharma.github.io/publication_types/8/index.xml" rel="self" type="application/rss+xml" />
+    <description>8</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Mrinank Sharma © 2020</copyright><lastBuildDate>Sun, 24 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mrinanksharma.github.io/img/icon-192.png</url>
+      <title>8</title>
+      <link>https://mrinanksharma.github.io/publication_types/8/</link>
+    </image>
+    
+    <item>
+      <title>Differentially Private Federated Variational Inference</title>
+      <link>https://mrinanksharma.github.io/publication/primlone/</link>
+      <pubDate>Sun, 24 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/publication/primlone/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

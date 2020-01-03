@@ -5,12 +5,20 @@
     <link>https://mrinanksharma.github.io/authors/mrinank-sharma/</link>
       <atom:link href="https://mrinanksharma.github.io/authors/mrinank-sharma/index.xml" rel="self" type="application/rss+xml" />
     <description>Mrinank Sharma</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Mrinank Sharma © 2019</copyright><lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Mrinank Sharma © 2020</copyright><lastBuildDate>Sun, 24 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mrinanksharma.github.io/img/icon-192.png</url>
       <title>Mrinank Sharma</title>
       <link>https://mrinanksharma.github.io/authors/mrinank-sharma/</link>
     </image>
+    
+    <item>
+      <title>Differentially Private Federated Variational Inference</title>
+      <link>https://mrinanksharma.github.io/publication/primlone/</link>
+      <pubDate>Sun, 24 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/publication/primlone/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Differential Privacy and Approximate Bayesian Inference</title>
@@ -31,7 +39,13 @@
 
 &lt;p&gt;Differential Privacy (DP) &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; is the current gold standard for mathematically quantifying the level of privacy offered by a randomised algorithm. Note that there is a requirement for the algorithm to be randomised, and this can be interpreted as giving each individual some plausibility deniability.&lt;/p&gt;
 
-&lt;p&gt;This project built upon Partitioned Variational Inference (PVI) &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;, a recently developed framework which supports federated (distributed) variational inference, a form of approximate inference, adapting the algorithm to provide a differential privacy guarantee. An arVix paper should be appearing soon, but in the meantime, please see &lt;a href=&#34;https://github.com/MrinankSharma/DP-PVI&#34; target=&#34;_blank&#34;&gt;the Github&lt;/a&gt; and do not hestitate to contact me if you are interested!&lt;/p&gt;
+&lt;p&gt;This project built upon Partitioned Variational Inference (PVI) &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;, a recently developed framework which supports federated (distributed) variational inference, a form of approximate inference, adapting the algorithm to provide a differential privacy guarantee.&lt;/p&gt;
+
+&lt;p&gt;Relevant Publications:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mrinanksharma.github.io/publication/primlone&#34;&gt;Differentially Private Federated Variational Inference&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;div class=&#34;footnotes&#34;&gt;
 
 &lt;hr /&gt;

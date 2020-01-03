@@ -5,12 +5,52 @@
     <link>https://mrinanksharma.github.io/authors/</link>
       <atom:link href="https://mrinanksharma.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Mrinank Sharma © 2019</copyright><lastBuildDate>Sun, 27 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Mrinank Sharma © 2020</copyright><lastBuildDate>Sun, 24 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mrinanksharma.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://mrinanksharma.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Antti Honkela</title>
+      <link>https://mrinanksharma.github.io/authors/antti-honkela/</link>
+      <pubDate>Sun, 24 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/antti-honkela/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Hutchinson*</title>
+      <link>https://mrinanksharma.github.io/authors/michael-hutchinson/</link>
+      <pubDate>Sun, 24 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/michael-hutchinson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mrinank Sharma</title>
+      <link>https://mrinanksharma.github.io/authors/mrinank-sharma/</link>
+      <pubDate>Sun, 24 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/mrinank-sharma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Richard E. Turner</title>
+      <link>https://mrinanksharma.github.io/authors/richard-e.-turner/</link>
+      <pubDate>Sun, 24 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/richard-e.-turner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siddharth Swaroop</title>
+      <link>https://mrinanksharma.github.io/authors/siddharth-swaroop/</link>
+      <pubDate>Sun, 24 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/siddharth-swaroop/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -23,14 +63,6 @@
 
 &lt;p&gt;I also identify strongly with the effective altruism community and hope to use my career to make a positive social impact.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Mrinank Sharma</title>
-      <link>https://mrinanksharma.github.io/authors/mrinank-sharma/</link>
-      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://mrinanksharma.github.io/authors/mrinank-sharma/</guid>
-      <description></description>
     </item>
     
   </channel>
