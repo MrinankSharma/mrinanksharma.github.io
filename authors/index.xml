@@ -5,12 +5,92 @@
     <link>https://mrinanksharma.github.io/authors/</link>
       <atom:link href="https://mrinanksharma.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Mrinank Sharma © 2020</copyright><lastBuildDate>Sun, 24 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Mrinank Sharma © 2020</copyright><lastBuildDate>Tue, 24 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mrinanksharma.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://mrinanksharma.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Anna B. Stephenson</title>
+      <link>https://mrinanksharma.github.io/authors/anna-b.-stephenson/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/anna-b.-stephenson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gavin Leech</title>
+      <link>https://mrinanksharma.github.io/authors/gavin-leech/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/gavin-leech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jan Kulveit</title>
+      <link>https://mrinanksharma.github.io/authors/jan-kulveit/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/jan-kulveit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jan Markus Brauner*</title>
+      <link>https://mrinanksharma.github.io/authors/jan-markus-brauner/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/jan-markus-brauner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leonid Chindelevitch</title>
+      <link>https://mrinanksharma.github.io/authors/leonid-chindelevitch/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/leonid-chindelevitch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mrinank Sharma</title>
+      <link>https://mrinanksharma.github.io/authors/mrinank-sharma/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/mrinank-sharma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sören Mindermann*</title>
+      <link>https://mrinanksharma.github.io/authors/soren-mindermann/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/soren-mindermann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomáš Gavenčiak</title>
+      <link>https://mrinanksharma.github.io/authors/tomas-gavenciak/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/tomas-gavenciak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yarin Gal</title>
+      <link>https://mrinanksharma.github.io/authors/yarin-gal/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/yarin-gal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yee Whye Teh</title>
+      <link>https://mrinanksharma.github.io/authors/yee-whye-teh/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/yee-whye-teh/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Antti Honkela</title>
@@ -25,14 +105,6 @@
       <link>https://mrinanksharma.github.io/authors/michael-hutchinson/</link>
       <pubDate>Sun, 24 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://mrinanksharma.github.io/authors/michael-hutchinson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mrinank Sharma</title>
-      <link>https://mrinanksharma.github.io/authors/mrinank-sharma/</link>
-      <pubDate>Sun, 24 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://mrinanksharma.github.io/authors/mrinank-sharma/</guid>
       <description></description>
     </item>
     
@@ -57,11 +129,13 @@
       <link>https://mrinanksharma.github.io/authors/admin/</link>
       <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://mrinanksharma.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a first year PhD student at Magdalen College at the Univeristy of Oxford, in the &lt;a href=&#34;https://www.eng.ox.ac.uk/aims-cdt/&#34; target=&#34;_blank&#34;&gt;Autonomous Intelligent Machines and Systems CDT (AIMS)&lt;/a&gt; programme.&lt;/p&gt;
+      <description>&lt;p&gt;I&amp;rsquo;m a second year PhD student at Magdalen College at the Univeristy of Oxford, in the &lt;a href=&#34;https://www.eng.ox.ac.uk/aims-cdt/&#34; target=&#34;_blank&#34;&gt;Autonomous Intelligent Machines and Systems CDT (AIMS)&lt;/a&gt; programme. I&amp;rsquo;m supervised by &lt;a href=&#34;https://www.robots.ox.ac.uk/~twgr/&#34; target=&#34;_blank&#34;&gt;Tom Rainforth&lt;/a&gt;, &lt;a href=&#34;https://enalisnick.github.io/&#34; target=&#34;_blank&#34;&gt;Eric Nalisnick&lt;/a&gt;, and &lt;a href=&#34;http://www.stats.ox.ac.uk/~teh/&#34; target=&#34;_blank&#34;&gt;Yee Whye Teh&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;I&amp;rsquo;m broadly interested in Bayesian machine learning, believing that uncertainty quantification is essential, especially for optimal decision making. I also want to develop general techniques and algorithms which enable inference to be applied to many real-world scenarios, including including improving &amp;lsquo;robustness&amp;rsquo; (e.g. traditional adversarial robustness, as well other techniques such as differential privacy) as well as data efficiency (spanning semi-supervised learning to meta-learning).&lt;/p&gt;
+&lt;p&gt;I have broad interests in Bayesian and probabilistic machine learning, including Bayesian deep learning. I&amp;rsquo;m also excited by deep unsupervised learning and deep generative models. I hope to develop techniques that allow these methods to be more readily applied to real world problems.&lt;/p&gt;
 
-&lt;p&gt;I also identify strongly with the effective altruism community and hope to use my career to make a positive social impact.&lt;/p&gt;
+&lt;p&gt;Of late, I&amp;rsquo;ve been focusing on COVID-19 nonpharmaceutical intervention research. In short, we hope to understand the &lt;em&gt;individual&lt;/em&gt; effectiveness of different government interventions at controlling the spread of COVID-19?&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Got questions about applying for ML PhDs at Oxford? Feel free to reach out, either by email or on Twitter :)&lt;/p&gt;
 </description>
     </item>
     

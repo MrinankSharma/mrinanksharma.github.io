@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sören Mindermann* | Mrinank Sharma</title>
+    <link>https://mrinanksharma.github.io/authors/soren-mindermann/</link>
+      <atom:link href="https://mrinanksharma.github.io/authors/soren-mindermann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sören Mindermann*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Mrinank Sharma © 2020</copyright><lastBuildDate>Tue, 24 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mrinanksharma.github.io/img/icon-192.png</url>
+      <title>Sören Mindermann*</title>
+      <link>https://mrinanksharma.github.io/authors/soren-mindermann/</link>
+    </image>
+    
+    <item>
+      <title>How Robust are the Estimated Effects of Nonpharmaceutical Interventions against COVID-19?</title>
+      <link>https://mrinanksharma.github.io/publication/covidone/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/publication/covidone/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
