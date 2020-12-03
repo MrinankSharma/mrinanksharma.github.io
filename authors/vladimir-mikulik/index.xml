@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vladimir Mikulik | Mrinank Sharma</title>
+    <link>https://mrinanksharma.github.io/authors/vladimir-mikulik/</link>
+      <atom:link href="https://mrinanksharma.github.io/authors/vladimir-mikulik/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vladimir Mikulik</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Mrinank Sharma © 2020</copyright><lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mrinanksharma.github.io/img/icon-192.png</url>
+      <title>Vladimir Mikulik</title>
+      <link>https://mrinanksharma.github.io/authors/vladimir-mikulik/</link>
+    </image>
+    
+    <item>
+      <title>The effectiveness of eight nonpharmaceutical interventions against COVID-19 in 41 countries</title>
+      <link>https://mrinanksharma.github.io/publication/covidtwo/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/publication/covidtwo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
