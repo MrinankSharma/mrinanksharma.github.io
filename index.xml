@@ -5,7 +5,7 @@
     <link>https://mrinanksharma.github.io/</link>
       <atom:link href="https://mrinanksharma.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Mrinank Sharma</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Mrinank Sharma © 2020</copyright><lastBuildDate>Tue, 24 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Mrinank Sharma © 2020</copyright><lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mrinanksharma.github.io/img/icon-192.png</url>
       <title>Mrinank Sharma</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Publications</title>
-      <link>https://mrinanksharma.github.io/publication/</link>
-      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://mrinanksharma.github.io/publication/</guid>
+      <title>News</title>
+      <link>https://mrinanksharma.github.io/news/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/news/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>News</title>
-      <link>https://mrinanksharma.github.io/news/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://mrinanksharma.github.io/news/</guid>
+      <title>Publications</title>
+      <link>https://mrinanksharma.github.io/publication/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/publication/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>https://mrinanksharma.github.io/tags/covid19/</link>
       <atom:link href="https://mrinanksharma.github.io/tags/covid19/index.xml" rel="self" type="application/rss+xml" />
     <description>COVID19</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Mrinank Sharma © 2020</copyright><lastBuildDate>Tue, 24 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Mrinank Sharma © 2020</copyright><lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mrinanksharma.github.io/img/icon-192.png</url>
       <title>COVID19</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>How Robust are the Estimated Effects of Nonpharmaceutical Interventions against COVID-19?</title>
-      <link>https://mrinanksharma.github.io/publication/covidone/</link>
-      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://mrinanksharma.github.io/publication/covidone/</guid>
+      <title>Inferring the effectiveness of government interventions against COVID-19</title>
+      <link>https://mrinanksharma.github.io/publication/covidtwo/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/publication/covidtwo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The effectiveness of eight nonpharmaceutical interventions against COVID-19 in 41 countries</title>
-      <link>https://mrinanksharma.github.io/publication/covidtwo/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://mrinanksharma.github.io/publication/covidtwo/</guid>
+      <title>How Robust are the Estimated Effects of Nonpharmaceutical Interventions against COVID-19?</title>
+      <link>https://mrinanksharma.github.io/publication/covidone/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/publication/covidone/</guid>
       <description></description>
     </item>
     

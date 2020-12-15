@@ -5,7 +5,7 @@
     <link>https://mrinanksharma.github.io/authors/</link>
       <atom:link href="https://mrinanksharma.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Mrinank Sharma © 2020</copyright><lastBuildDate>Tue, 24 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Mrinank Sharma © 2020</copyright><lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mrinanksharma.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,18 +13,154 @@
     </image>
     
     <item>
+      <title>Alexander John Norman</title>
+      <link>https://mrinanksharma.github.io/authors/alexander-john-norman/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/alexander-john-norman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Anna B. Stephenson</title>
       <link>https://mrinanksharma.github.io/authors/anna-b.-stephenson/</link>
-      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://mrinanksharma.github.io/authors/anna-b.-stephenson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Johnston</title>
+      <link>https://mrinanksharma.github.io/authors/david-johnston/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/david-johnston/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gavin Leech</title>
       <link>https://mrinanksharma.github.io/authors/gavin-leech/</link>
-      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://mrinanksharma.github.io/authors/gavin-leech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>George Altman</title>
+      <link>https://mrinanksharma.github.io/authors/george-altman/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/george-altman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hong Ge</title>
+      <link>https://mrinanksharma.github.io/authors/hong-ge/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/hong-ge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jan Kulveit&#43;</title>
+      <link>https://mrinanksharma.github.io/authors/jan-kulveit&#43;/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/jan-kulveit&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jan Markus Brauner*</title>
+      <link>https://mrinanksharma.github.io/authors/jan-markus-brauner/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/jan-markus-brauner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Salvatier</title>
+      <link>https://mrinanksharma.github.io/authors/john-salvatier/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/john-salvatier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joshua Teperowski Monrad</title>
+      <link>https://mrinanksharma.github.io/authors/joshua-teperowski-monrad/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/joshua-teperowski-monrad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leonid Chindelevitch&#43;</title>
+      <link>https://mrinanksharma.github.io/authors/leonid-chindelevitch&#43;/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/leonid-chindelevitch&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meghan A. Hartwick</title>
+      <link>https://mrinanksharma.github.io/authors/meghan-a.-hartwick/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/meghan-a.-hartwick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mrinank Sharma</title>
+      <link>https://mrinanksharma.github.io/authors/mrinank-sharma/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/mrinank-sharma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sören Mindermann*</title>
+      <link>https://mrinanksharma.github.io/authors/soren-mindermann/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/soren-mindermann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tamay Besiroglu</title>
+      <link>https://mrinanksharma.github.io/authors/tamay-besiroglu/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/tamay-besiroglu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomáš Gavenčiak</title>
+      <link>https://mrinanksharma.github.io/authors/tomas-gavenciak/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/tomas-gavenciak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vladimir Mikulik</title>
+      <link>https://mrinanksharma.github.io/authors/vladimir-mikulik/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/vladimir-mikulik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yarin Gal&#43;</title>
+      <link>https://mrinanksharma.github.io/authors/yarin-gal&#43;/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/yarin-gal&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yee Whye Teh</title>
+      <link>https://mrinanksharma.github.io/authors/yee-whye-teh/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrinanksharma.github.io/authors/yee-whye-teh/</guid>
       <description></description>
     </item>
     
@@ -37,14 +173,6 @@
     </item>
     
     <item>
-      <title>Jan Markus Brauner*</title>
-      <link>https://mrinanksharma.github.io/authors/jan-markus-brauner/</link>
-      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://mrinanksharma.github.io/authors/jan-markus-brauner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Leonid Chindelevitch</title>
       <link>https://mrinanksharma.github.io/authors/leonid-chindelevitch/</link>
       <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
@@ -53,114 +181,10 @@
     </item>
     
     <item>
-      <title>Mrinank Sharma</title>
-      <link>https://mrinanksharma.github.io/authors/mrinank-sharma/</link>
-      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://mrinanksharma.github.io/authors/mrinank-sharma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sören Mindermann*</title>
-      <link>https://mrinanksharma.github.io/authors/soren-mindermann/</link>
-      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://mrinanksharma.github.io/authors/soren-mindermann/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tomáš Gavenčiak</title>
-      <link>https://mrinanksharma.github.io/authors/tomas-gavenciak/</link>
-      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://mrinanksharma.github.io/authors/tomas-gavenciak/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Yarin Gal</title>
       <link>https://mrinanksharma.github.io/authors/yarin-gal/</link>
       <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://mrinanksharma.github.io/authors/yarin-gal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yee Whye Teh</title>
-      <link>https://mrinanksharma.github.io/authors/yee-whye-teh/</link>
-      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://mrinanksharma.github.io/authors/yee-whye-teh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alexander John Norman</title>
-      <link>https://mrinanksharma.github.io/authors/alexander-john-norman/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://mrinanksharma.github.io/authors/alexander-john-norman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>David Johnston</title>
-      <link>https://mrinanksharma.github.io/authors/david-johnston/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://mrinanksharma.github.io/authors/david-johnston/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>George Altman</title>
-      <link>https://mrinanksharma.github.io/authors/george-altman/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://mrinanksharma.github.io/authors/george-altman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hong Ge</title>
-      <link>https://mrinanksharma.github.io/authors/hong-ge/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://mrinanksharma.github.io/authors/hong-ge/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>John Salvatier</title>
-      <link>https://mrinanksharma.github.io/authors/john-salvatier/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://mrinanksharma.github.io/authors/john-salvatier/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joshua Teperowski Monrad</title>
-      <link>https://mrinanksharma.github.io/authors/joshua-teperowski-monrad/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://mrinanksharma.github.io/authors/joshua-teperowski-monrad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Meghan A. Hartwick</title>
-      <link>https://mrinanksharma.github.io/authors/meghan-a.-hartwick/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://mrinanksharma.github.io/authors/meghan-a.-hartwick/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tamay Besiroglu</title>
-      <link>https://mrinanksharma.github.io/authors/tamay-besiroglu/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://mrinanksharma.github.io/authors/tamay-besiroglu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vladimir Mikulik</title>
-      <link>https://mrinanksharma.github.io/authors/vladimir-mikulik/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://mrinanksharma.github.io/authors/vladimir-mikulik/</guid>
       <description></description>
     </item>
     
@@ -207,7 +231,7 @@
 
 &lt;p&gt;Of late, I&amp;rsquo;ve been focusing on COVID-19 nonpharmaceutical intervention research. In short, we hope to understand the &lt;em&gt;individual&lt;/em&gt; effectiveness of different government interventions at controlling the spread of COVID-19?&amp;rdquo;&lt;/p&gt;
 
-&lt;p&gt;Got questions about applying to for ML PhDs at Oxford? Feel free to reach out, either by email or on Twitter :)&lt;/p&gt;
+&lt;p&gt;Got questions about applying for ML PhDs at Oxford? Feel free to reach out, either by email or on Twitter :)&lt;/p&gt;
 </description>
     </item>
     
