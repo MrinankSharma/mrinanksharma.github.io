@@ -5,7 +5,7 @@
     <link>https://mrinanksharma.github.io/authors/</link>
       <atom:link href="https://mrinanksharma.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Mrinank Sharma © 2020</copyright><lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Mrinank Sharma © 2022</copyright><lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mrinanksharma.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -225,13 +225,11 @@
       <link>https://mrinanksharma.github.io/authors/admin/</link>
       <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://mrinanksharma.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a second year PhD student at Magdalen College at the Univeristy of Oxford, in the &lt;a href=&#34;https://www.eng.ox.ac.uk/aims-cdt/&#34; target=&#34;_blank&#34;&gt;Autonomous Intelligent Machines and Systems CDT (AIMS)&lt;/a&gt; programme. I&amp;rsquo;m supervised by &lt;a href=&#34;https://www.robots.ox.ac.uk/~twgr/&#34; target=&#34;_blank&#34;&gt;Tom Rainforth&lt;/a&gt;, &lt;a href=&#34;https://enalisnick.github.io/&#34; target=&#34;_blank&#34;&gt;Eric Nalisnick&lt;/a&gt;, and &lt;a href=&#34;http://www.stats.ox.ac.uk/~teh/&#34; target=&#34;_blank&#34;&gt;Yee Whye Teh&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;I&amp;rsquo;m a PhD Student at the University of Oxford in the &lt;a href=&#34;https://www.eng.ox.ac.uk/aims-cdt/&#34; target=&#34;_blank&#34;&gt;Autonomous Intelligent Machines and Systems CDT (AIMS)&lt;/a&gt; programme, supervised by &lt;a href=&#34;https://www.robots.ox.ac.uk/~twgr/&#34; target=&#34;_blank&#34;&gt;Tom Rainforth&lt;/a&gt;, &lt;a href=&#34;https://enalisnick.github.io/&#34; target=&#34;_blank&#34;&gt;Eric Nalisnick&lt;/a&gt;, and &lt;a href=&#34;http://www.stats.ox.ac.uk/~teh/&#34; target=&#34;_blank&#34;&gt;Yee Whye Teh&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;I have broad interests in Bayesian and probabilistic machine learning, including Bayesian deep learning. I&amp;rsquo;m also excited by deep unsupervised learning and deep generative models. I hope to develop techniques that allow these methods to be more readily applied to real world problems.&lt;/p&gt;
+&lt;p&gt;I spent the first portion of my PhD developing Bayesian models to evaluate the effects of nonpharamceutical interventions on COVID-19 transmission. This work resulted in publications in &lt;a href=&#34;https://www.science.org/doi/full/10.1126/science.abd9338&#34; target=&#34;_blank&#34;&gt;Science&lt;/a&gt;, &lt;a href=&#34;https://www.pnas.org/doi/abs/10.1073/pnas.2119266119&#34; target=&#34;_blank&#34;&gt;PNAS&lt;/a&gt;, and &lt;a href=&#34;https://www.nature.com/articles/s41467-021-26013-4?lan=german&#34; target=&#34;_blank&#34;&gt;Nature Communications&lt;/a&gt;. In addition, our work was cited in federal legislation, presented to the Africa CDC modelling group, and shared with the UK&amp;rsquo;s Scientific Advisory Group for Emergencies.&lt;/p&gt;
 
-&lt;p&gt;Of late, I&amp;rsquo;ve been focusing on COVID-19 nonpharmaceutical intervention research. In short, we hope to understand the &lt;em&gt;individual&lt;/em&gt; effectiveness of different government interventions at controlling the spread of COVID-19?&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;Got questions about applying for ML PhDs at Oxford? Feel free to reach out, either by email or on Twitter :)&lt;/p&gt;
+&lt;p&gt;Following this, I worked on &lt;a href=&#34;https://proceedings.mlr.press/v162/mindermann22a.html&#34; target=&#34;_blank&#34;&gt;accelerating model training using ideas from probabilistic modelling&lt;/a&gt; and &lt;a href=&#34;https://arxiv.org/abs/2211.06291&#34; target=&#34;_blank&#34;&gt;rethinking Bayesian neural networks&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
